@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="glavred">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/sdkjs-plugins/content/glavred/deploy/glavred.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
