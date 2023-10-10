@@ -1,0 +1,52 @@
+{
+  "guid": "asc.{E6513294-634E-11EE-8C99-0242AC120002}",
+  "help": "",
+  "minVersion": "7.0.0",
+  "name": "Sketchfab",
+  "variations": [
+    {
+      "buttons": [
+        {
+          "text": "Cancel",
+          "primary": false,
+          "isviewer": false,
+          "textLocale": {
+            "ru": "Отмена"
+          }
+        }
+      ],
+      "cryptoDisabledForExternalCloud": "true",
+      "cryptoDisabledForInternalCloud": "true",
+      "cryptoDisabledOnStart": "true",
+      "cryptoMode": "1",
+      "description": "Sketchfab is a website to publish, share, discover, buy and sell 3D, VR and AR content. It provides a viewer based on the WebGL and WebXR technologies that allows users to display 3D models on the web,",
+      "descriptionLocale": {
+        "ru": "Sketchfab— это веб-сайт платформы 3D-моделирования, на котором можно публиковать, делиться, открывать, покупать и продавать 3D-, VR- и AR-контент. Он предоставляет средство просмотра на основе технологий WebGL и WebXR, которое позволяет пользователям отображать 3D-модели в Интернете."
+      },
+      "EditorsSupport": ["word"],
+      "icons": ["resources/sketchfab-logo.png"],
+      "initOnSelectionChanged": false,
+      "isCustomWindow": false,
+      "isDisplayedInViewer": false,
+      "isInsideMode": true,
+      "isModal": false,
+      "isSystem": false,
+      "isViewer": true,
+      "isVisual": false,
+      "size": [600, 700],
+      "store": {
+        "background": {
+          "light": "#F5F5F5",
+          "dark": "#444444"
+        },
+        "categories": ["devTools","specAbilities", "work"],
+        "icons": {
+          "light": "resources/logo",
+          "dark" : "resources/logo_dark"
+        }
+      },
+      "url": "index.html"
+    }
+  ],
+  "version": "1.0"
+}
